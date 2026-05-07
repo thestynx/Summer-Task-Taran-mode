@@ -20,7 +20,7 @@ Learn the fundamentals of Git and GitHub — the version control tools you will 
 
 | Name | What I want to do at ARK |
 |------|--------------------------|
-| Kushagra Eshitva | 1.First of all it allows me to follow my passion for aerial objects. 2.As an Aerospace Engineering student at IIT Kharagpur, I want to get real experience beyond classroom theory by working on hands-on projects. 3.I want to contribute regularly, learn from experienced colleagues, and take part in competitions, research projects, and new builds.|
+| Kushagra Eshitva | 1.First of all it allows me to follow my passion for aerial objects.   2.As an Aerospace Engineering student at IIT Kharagpur, I want to get real experience beyond classroom theory by working on hands-on projects.   3.I want to contribute regularly, learn from experienced colleagues, and take part in competitions, research projects, and new builds.|
 | Taran Saxena | 1. I wish to develop competence in Controls, Real-world tuning, Simulation,  Mathematical Modelling, Sensor Integration and Aerodynamics/CFD with a focus on bringing simulation to reality, alongside the ARK community. 2. I would be thrilled to apply my learnings and apply novel concepts with thorough scientific validation in competitions and research projects  3. I wish to understand the Systems Engineering of aerial robotics projects by focusing on both the high level architecture and the low level engineering and integration 
 
 ---
